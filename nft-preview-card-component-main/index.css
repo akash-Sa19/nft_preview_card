@@ -31,13 +31,31 @@ body {
 	/* border-radius: 15px; */
 }
 .nft {
+	/* position: absolute; */
 	width: 300px; 
 	height:300px; 
 	object-fit: cover;
 	border-radius: 15px;	
 }
-.nft:hover {
-	
+.hover_pro{
+	width: 300px;
+	height: 300px;
+	background-color: hsl(178, 100%, 50%, 60%);	
+	border-radius: 15px;
+	position: absolute;
+	z-index: 999;
+	opacity: 0;
+	transition: opacity 0.3s ease-in-out;
+}
+.hover_pro:hover {
+	opacity: 1;
+	cursor: pointer;
+}
+.eye_icon {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 .card p {
 	font-size: 18px;
