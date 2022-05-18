@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://akash-sa19.github.io/nft_preview_card/)
 
 ## My process
 
@@ -68,4 +68,4 @@ I will continue learning CSS and Bootstrap, their so much to learn in web develo
 - Twitter [@AkashSa71312006](https://twitter.com/AkashSa71312006)
 
 ## Acknowledgments
-This is thanks to @  for helping me in this project, your video helped me to complete this challenge. keep up the good work buddy!
+This is thanks to [Thomas Sankara](https://github.com/SankThomas) for helping me in this project, your video helped me to complete this challenge. keep up the good work buddy!
