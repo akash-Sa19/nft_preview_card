@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://akash-sa19.github.io/nft_preview_card/)
+- Live Site URL: [Click here](https://akash-sa19.github.io/nft_preview_card/)
 
 ## My process
 
