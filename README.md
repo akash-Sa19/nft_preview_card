@@ -44,9 +44,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
@@ -58,14 +55,15 @@ I will continue learning CSS and Bootstrap, their so much to learn in web develo
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This website helped me to start my web development journey. It is very good resource for learning different programming language and framework.
-- [Example resource 2](https://stackoverflow.com/) - If you have a doubt ask from the industries experts with the heip of this website.
+- [W3school](https://www.w3schools.com/) - This website helped me to start my web development journey. It is very good resource for learning different programming language and framework.
+- [Stackoverflow](https://stackoverflow.com/) - If you have a doubt ask from the industries experts with the heip of this website.
 
 ## Author
 
-- Website - [Akash Sahu](https://www.your-site.com)
+- Website - [Akash Sahu](https://akash-sa19.github.io/)
 - Frontend Mentor - [@akash-Sa19](https://www.frontendmentor.io/profile/akash-Sa19)
 - Twitter [@AkashSa71312006](https://twitter.com/AkashSa71312006)
+- linkdin [@akash-sahu](https://www.linkedin.com/in/akash-sahu-4b4615220/)
 
 ## Acknowledgments
 This is thanks to [Thomas Sankara](https://github.com/SankThomas) for helping me in this project, your video helped me to complete this challenge. keep up the good work buddy!
